@@ -1,0 +1,1 @@
+Observação: Eu ajustei a regra “Se vitórias for menor do que 10 = Ferro” para “Se vitórias for menor igual a 10 = Ferro”, porque a regra seguinte diz que “Se vitórias for entre 11 e 20 = Bronze”, sendo assim a quantidade de vitórias equivalente ao número 10 ficaria de fora.
